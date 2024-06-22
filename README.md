@@ -1,7 +1,7 @@
 # News Portal
 
 ## Project Overview
-The **News App with React** project is a dynamic and responsive web application crafted to display and filter top news articles across multiple categories. Utilizing React, this app fetches data from an external API and presents it in an intuitive format. Users can easily browse through various news categories and access detailed information about individual articles. The project is hosted on [Vercel](https://vercel.com), allowing for seamless access and sharing.
+The **News App with React** project is a dynamic and responsive web application crafted to display and filter top news articles across multiple categories. Utilizing React, this app fetches data from an external API and presents it in an intuitive format. Users can easily browse through various news categories and access detailed information about individual articles. 
 
 ## Live Demo
 
