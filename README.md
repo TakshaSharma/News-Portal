@@ -1,19 +1,17 @@
-# News App with React
+# News Portal
 
 ## Project Overview
-The **News App with React** project is a dynamic and responsive web application designed to showcase and filter top news articles based on various categories. Built with React, this application fetches data from an external API and displays it in a user-friendly manner. Users can navigate through different news categories and view detailed information about each article. The project is deployed on [Vercel](https://vercel.com) for easy access and sharing.
+The **News App with React** project is a dynamic and responsive web application crafted to display and filter top news articles across multiple categories. Utilizing React, this app fetches data from an external API and presents it in an intuitive format. Users can easily browse through various news categories and access detailed information about individual articles. The project is hosted on [Vercel](https://vercel.com), allowing for seamless access and sharing.
 
-## Features
-- **Dynamic Filtering:** Users can filter news articles by categories such as technology, sports, health, and more.
-- **Pagination:** Navigate through pages of articles with ease using next and previous buttons.
-- **Article Detail View:** Click on any article card to view its detailed information, including the full content and related media.
-- **Responsive Design:** The application is fully responsive, ensuring a seamless experience on both desktop and mobile devices.
-- **Loading Spinner:** Displays a loading spinner while fetching data from the API.
-- **Error Handling:** Displays error messages in case of network issues or invalid API responses.
+## Live Demo
+
+Live Link [here](https://news-portal-virid-six.vercel.app/) .
+
 
 ## Technologies Used
-- **React:** JavaScript library for building user interfaces.
-- **React Router:** Library for routing in React applications.
-- **Tailwind CSS:** Utility-first CSS framework for styling.
-- **React Toastify:** Library for providing notifications and alerts.
-- **Vercel:** Platform for deploying and hosting web applications.
+
+- **React:** A JavaScript library designed for creating user interfaces.
+- **React Router:** A library used for managing navigation in React applications.
+- **Tailwind CSS:** A utility-first CSS framework for efficient styling.
+- **React Toastify:** A library that facilitates notifications and alerts.
+- **Vercel:** A platform for deploying and hosting web apps.
